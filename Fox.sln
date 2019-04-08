@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fox", "Fox\Fox.csproj", "{0EEC60E7-2075-40FA-9A97-428D7B89237E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4CB5BC56-1F5A-4C3F-B157-32DD915547DA} = {4CB5BC56-1F5A-4C3F-B157-32DD915547DA}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyServices", "MyServices\MyServices.csproj", "{4CB5BC56-1F5A-4C3F-B157-32DD915547DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EEC60E7-2075-40FA-9A97-428D7B89237E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EEC60E7-2075-40FA-9A97-428D7B89237E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EEC60E7-2075-40FA-9A97-428D7B89237E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EEC60E7-2075-40FA-9A97-428D7B89237E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CB5BC56-1F5A-4C3F-B157-32DD915547DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB5BC56-1F5A-4C3F-B157-32DD915547DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB5BC56-1F5A-4C3F-B157-32DD915547DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB5BC56-1F5A-4C3F-B157-32DD915547DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

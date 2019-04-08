@@ -1,0 +1,43 @@
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\Fox\bin\Debug\Fox.exe.config
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\Fox\bin\Debug\Fox.exe
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\Fox\bin\Debug\Fox.pdb
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\Fox\bin\Debug\Dapper.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\Fox\bin\Debug\MetroFramework.Design.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\Fox\bin\Debug\MetroFramework.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\Fox\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\Fox\bin\Debug\Dapper.xml
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\Fox\obj\Debug\Fox.Form1.resources
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\Fox\obj\Debug\Fox.Properties.Resources.resources
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\Fox\obj\Debug\Fox.csproj.GenerateResource.Cache
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\Fox\obj\Debug\Fox.exe
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\Fox\obj\Debug\Fox.pdb
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\Fox\bin\Debug\Fox.exe.config
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\Fox\obj\Debug\Fox.exe
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\Fox\obj\Debug\Fox.pdb
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\Fox\bin\Debug\Fox.exe
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\Fox\bin\Debug\Fox.pdb
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\Fox\bin\Debug\Dapper.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\Fox\bin\Debug\MetroFramework.Design.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\Fox\bin\Debug\MetroFramework.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\Fox\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\Fox\bin\Debug\Dapper.xml
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\Fox\obj\Debug\Fox.Form1.resources
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\Fox\obj\Debug\Fox.Properties.Resources.resources
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\Fox\obj\Debug\Fox.csproj.GenerateResource.Cache
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox - Kopya\Fox\bin\Debug\Fox.exe.config
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox - Kopya\Fox\obj\Debug\Fox.exe
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox - Kopya\Fox\obj\Debug\Fox.pdb
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\Fox\bin\Debug\Fox.exe.config
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\Fox\obj\Debug\Fox.exe
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\Fox\obj\Debug\Fox.pdb
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\Fox\bin\Debug\Fox.exe
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\Fox\bin\Debug\Fox.pdb
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\Fox\bin\Debug\Dapper.dll
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\Fox\bin\Debug\MetroFramework.Design.dll
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\Fox\bin\Debug\MetroFramework.dll
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\Fox\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\Fox\bin\Debug\Dapper.xml
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\Fox\obj\Debug\Fox.Form1.resources
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\Fox\obj\Debug\Fox.Properties.Resources.resources
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\Fox\obj\Debug\Fox.csproj.GenerateResource.Cache
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\Fox\obj\Debug\Fox.csprojResolveAssemblyReference.cache

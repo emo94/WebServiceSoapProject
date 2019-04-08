@@ -1,0 +1,103 @@
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\ApplicationInsights.config
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\roslyn\csc.exe
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\roslyn\vbc.exe
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\MyServices.dll.config
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\MyServices.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\MyServices.pdb
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\Dapper.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\Microsoft.AI.Web.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\Microsoft.ApplicationInsights.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\Dapper.xml
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\Microsoft.AI.Web.xml
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\Microsoft.ApplicationInsights.xml
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\obj\Debug\MyServices.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox\MyServices\obj\Debug\MyServices.pdb
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\ApplicationInsights.config
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\roslyn\csc.exe
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\roslyn\vbc.exe
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\MyServices.dll.config
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\MyServices.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\MyServices.pdb
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\Dapper.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\Microsoft.AI.Web.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\Microsoft.ApplicationInsights.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\Dapper.xml
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\Microsoft.AI.Web.xml
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\Microsoft.ApplicationInsights.xml
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\obj\Debug\MyServices.dll
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\Fox - Kopya\MyServices\obj\Debug\MyServices.pdb
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\ApplicationInsights.config
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\roslyn\csc.exe
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\roslyn\vbc.exe
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\MyServices.dll.config
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\MyServices.dll
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\MyServices.pdb
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\Dapper.dll
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\Microsoft.AI.Web.dll
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\Microsoft.ApplicationInsights.dll
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\Dapper.xml
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\Microsoft.AI.Web.xml
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\Microsoft.ApplicationInsights.xml
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\obj\Debug\MyServices.dll
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\obj\Debug\MyServices.pdb
+C:\Users\yedanalioglu\Desktop\Yeni klasör (2)\Fox\MyServices\obj\Debug\MyServices.csprojResolveAssemblyReference.cache
